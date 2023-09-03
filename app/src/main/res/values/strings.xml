@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name" translatable="false">Navigation Drawer</string>
+    <string name="home" translatable="false">Wall Of Options</string>
+    <string name="welcome" translatable="false">Welcome</string>
+    <string name="about" translatable="false">About Us</string>
+    <string name="have_fun" translatable="false">Have Fun</string>
+    <string name="random" translatable="false">Random Quote</string>
+    <string name="list" translatable="false">Quote List</string>
+    <string name="add_jokes" translatable="false">Add Jokes</string>
+    <string name="view_jokes" translatable="false">View List of Jokes</string>
+    <string name="exit" translatable="false">Exit</string>
+    <string name="open_nav">Open Navigation Drawer</string>
+    <string name="close_nav">Close Navigation Drawer</string>
+
+
+</resources>
